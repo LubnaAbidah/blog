@@ -1,3 +1,7 @@
+# Jurnal Lubna
+
+Berisi penggalan narasi dan kisah penulis.
+
 # Jekyll Modern Blog
 
 A Simple, Clean and responsive modern blog for jekyll.
