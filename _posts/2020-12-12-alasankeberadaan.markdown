@@ -3,7 +3,7 @@ title:  "Alasan Keberadaan"
 subtitle: "Kita menyadari hidup terdiri dari 2 peristiwa awal dan akhir dan mengikhlaskan yang terjadi adalah kuncinya"
 author: "Lubna"
 avatar: "img/authors/lubna.png"
-image: "img/2020-10-24.jpg"
+image: "img/2020-12-12.jpg"
 date:   2020-12-12 17:12:12
 ---
 
